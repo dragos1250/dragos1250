@@ -10,7 +10,7 @@
 
 ---
 
-<h2 align="center">🚀 About Me</h2>
+<h2 align="center">🚀 About Me 🚀</h2>
 
 * 🎓 **Education:** Master's Student in Information Systems (SIMPRE) at **ASE CSIE**.
 * 💼 **Focus:** Architecting backend logic, integrating full-stack web applications, and relational database management.
@@ -19,7 +19,7 @@
 
 ---
 
-<h2 align="center">🛠️ My Tech Stack</h2>
+<h2 align="center">🛠️ My Tech Stack 🛠️</h2>
 
 **I am currently using:**
 <p>
@@ -40,7 +40,7 @@
 
 ---
 
-<h2 align="center">📊 GitHub Insights</h2>
+<h2 align="center">📊 GitHub Insights 📊</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragos1250&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -53,14 +53,14 @@
 
 ---
 
-<h2 align="center">🌆 3D Contribution City</h2>
+<h2 align="center">🌆 3D Contribution City 🌆</h2>
 <div align="center">
   <img src="https://raw.githubusercontent.com/dragos1250/dragos1250/main/profile-3d-contrib/profile-night-view.svg" alt="3D City Night View" />
 </div>
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
+<h2 align="center">🐍 Contribution Snake 🐍</h2>
 
 <div align="center">
   <picture>
@@ -72,8 +72,7 @@
 
 ---
 
-<h2 align="center">💻 Random Dev Joke</h2>
-
+<h2 align="center">💻 Random Dev Joke 💻</h2>
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="800" />
 </div>
