@@ -69,7 +69,7 @@
 
 <h2 align="center">🌃 Late Night Coder 🌃</h2>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="Animated PC Setup" width="600" />
+  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Late Night Coding" width="500" />
 </div>
 
 ---
