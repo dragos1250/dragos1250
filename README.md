@@ -55,5 +55,5 @@
 
 <h2 align="center">🌆 3D Contribution City</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dragos1250/dragos1250/main/metrics.plugin.isocalendar.svg" alt="Metrics 3D Calendar" />
+  <img src="https://raw.githubusercontent.com/dragos1250/dragos1250/main/profile-3d-contrib/profile-night-view.svg" alt="3D City Night View" />
 </div>
