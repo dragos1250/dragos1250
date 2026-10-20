@@ -30,11 +30,13 @@
 
 **Databases, APIs & Exploring:**
 <p>
+  <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
+</p>
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=oracle,mysql,bash,postman,unity,cs" />
+    <img src="https://skillicons.dev/icons?i=mysql,bash,postman,unity,cs" />
   </a>
 </p>
-
 ---
 
 <h2 align="center">📊 GitHub Insights</h2>
