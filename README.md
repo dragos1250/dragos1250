@@ -40,12 +40,12 @@
 ## 📊 GitHub Insights
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragos1250&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragos1250&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 <br/>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dragos1250&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragos1250&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=dragos1250&show_icons=true&theme=dark&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragos1250&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
@@ -53,5 +53,9 @@
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
