@@ -67,9 +67,9 @@
 
 ---
 
-<h2 align="center">🌃 Late Night Coder 🌃</h2>
+<h2 align="center">💻 Terminal 💻</h2>
 <div align="center">
-  <img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="Late Night Coding" width="500" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+Backend+with+Java;System.out.println(%22Hello+World%22);Passionate+about+PC+Hardware" alt="Typing SVG" />
 </div>
 
 ---
