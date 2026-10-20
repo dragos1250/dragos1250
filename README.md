@@ -29,7 +29,7 @@
 </p>
 
 **Databases, APIs & Exploring:**
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Oracle_PL/SQL-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle" />
 </p>
 <p align="center">
