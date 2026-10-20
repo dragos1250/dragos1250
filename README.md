@@ -60,19 +60,16 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake 🐍</h2>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 <h2 align="center">💻 Random Dev Joke 💻</h2>
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="800" />
 </div>
+
+---
+
+<h2 align="center">🌃 Late Night Coder 🌃</h2>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" alt="Animated PC Setup" />
+</div>
+
+---
