@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+<h2 align="center">🚀 About Me</h2>
 
 * 🎓 **Education:** Master's Student in Information Systems (SIMPRE) at **ASE CSIE**.
 * 💼 **Focus:** Architecting backend logic, integrating full-stack web applications, and relational database management.
@@ -19,17 +19,17 @@
 
 ---
 
-## 🛠️ My Tech Stack
+<h2 align="center">🛠️ My Tech Stack</h2>
 
 **I am currently using:**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,py,js,react,nodejs,postgres,prisma,tailwind,vite,git,github,vscode" />
   </a>
 </p>
 
 **Databases, APIs & Exploring:**
-<p align="left">
+<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=oracle,mysql,bash,postman,unity,cs" />
   </a>
@@ -37,7 +37,7 @@
 
 ---
 
-## 📊 GitHub Insights
+<h2 align="center">📊 GitHub Insights</h2>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragos1250&theme=dark&hide_border=true" alt="GitHub Streak" />
@@ -50,7 +50,7 @@
 
 ---
 
-## 🐍 Contribution Snake
+<h2 align="center">🐍 Contribution Snake</h2>
 
 <div align="center">
   <picture>
