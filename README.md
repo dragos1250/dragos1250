@@ -22,14 +22,14 @@
 <h2 align="center">🛠️ My Tech Stack</h2>
 
 **I am currently using:**
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,cpp,py,js,react,nodejs,postgres,prisma,tailwind,vite,git,github,vscode" />
   </a>
 </p>
 
 **Databases, APIs & Exploring:**
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=oracle,mysql,bash,postman,unity,cs" />
   </a>
