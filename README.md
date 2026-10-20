@@ -1,29 +1,57 @@
-# 👋 Salut, sunt Dragoș-Mihai Răducanu
+<h1 align="center">✨ Welcome to Dragoș's Workspace ✨</h1>
 
-Sunt un **Junior Software Developer** axat pe integrarea sistemelor full-stack, dezvoltare backend și procesarea datelor. Îmbin disciplina de inginerie software cu o pasiune practică pentru asamblarea, depanarea și tuning-ul de performanță al sistemelor hardware.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=600&lines=Building+Robust+Backend+Systems;Tuning+High-Performance+Hardware;Crafting+Full-Stack+Web+Apps" alt="Typing SVG" />
+</div>
 
-### 🚀 Despre mine
-* 🎓 **Educație:** Urmez programul de Master SIMPRE la CSIE (ASE București).
-* 💼 **Dezvoltare:** Particip la programul avansat de **Java Software Engineering** organizat de EPAM Systems.
-* 🏆 **Certificări:** Dețin certificări Oracle (PL/SQL) și o diplomă SAS în programarea avansată pentru Data Science.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dragos1250&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="dragos1250 profile views" />
+</p>
 
-### 🛠️ Tech Stack
-**Backend & Database:**
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+---
 
-**Frontend:**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+## 🚀 About Me
 
-**Tools & APIs:**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=Stripe&logoColor=white)
+* 🎓 **Education:** Master's Student in Information Systems (SIMPRE) at **ASE CSIE**.
+* 💼 **Focus:** Architecting backend logic, integrating full-stack web applications, and relational database management.
+* 🎯 **Current Goal:** Advancing enterprise Java skills via the **EPAM Systems** program and building data-driven platforms.
+* 🏎️ **Interests:** When I'm not writing code, I'm likely tuning custom PC hardware (Ryzen PBO & GPU optimization) or performing hands-on automotive diagnostics.
 
-### 📈 GitHub Stats
-[![Dragoș's GitHub stats](https://github-readme-stats.vercel.app/api?username=dragos1250&show_icons=true&theme=radical)](https://github.com/dragos1250)
+---
+
+## 🛠️ My Tech Stack
+
+**I am currently using:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,cpp,py,js,react,nodejs,postgres,prisma,tailwind,vite,git,github,vscode" />
+  </a>
+</p>
+
+**Databases, APIs & Exploring:**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=oracle,mysql,bash,postman,unity,cs" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Insights
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dragos1250&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dragos1250&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dragos1250&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/dragos1250/dragos1250/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
