@@ -64,12 +64,3 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true" alt="Jokes Card" width="800" />
 </div>
-
----
-
-<h2 align="center">💻 Terminal 💻</h2>
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=38B2AC&center=true&vCenter=true&width=500&lines=Building+Backend+with+Java;System.out.println(%22Hello+World%22);Passionate+about+PC+Hardware" alt="Typing SVG" />
-</div>
-
----
