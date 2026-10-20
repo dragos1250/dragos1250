@@ -1,6 +1,5 @@
 name: Metrics
 on:
-  # Se actualizează automat o dată la 24 de ore
   schedule: [{cron: "0 0 * * *"}]
   workflow_dispatch:
   push:
@@ -15,14 +14,21 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          
-          # Numele fișierului care va fi generat
           filename: metrics.plugin.isocalendar.svg
           
-          # Setări de bază
+          # --- ESTETICĂ & VIBE ---
           config_timezone: Europe/Bucharest
-          base: "" # Lăsăm gol ca să nu ne încarce cu statistici pe care le ai deja
+          config_theme: tokyonight      # Sincronizare perfectă de culori (cyan/dark)
+          config_transparent: yes       # Efect de floating, zero fundal pătrățos
+          base: ""                      # Oprim statisticile clasice plictisitoare
           
-          # Activarea Isocalendarului 3D
+          # --- ORAȘUL 3D ---
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year
+          plugin_isocalendar_duration: half-year # Zoom masiv pe blocurile 3D
+          
+          # --- HABITS & FACTS ---
+          plugin_habits: yes
+          plugin_habits_from: 200       # Analizează ultimele 200 de commit-uri
+          plugin_habits_days: 14        # Pe ultimele 14 zile
+          plugin_habits_facts: yes      # Generează fapte (ex: "Active mostly during the night")
+          plugin_habits_charts: yes     # Grafic dinamic de activitate orară
