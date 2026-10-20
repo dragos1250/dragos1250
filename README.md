@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dragos1250&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="dragos1250 profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dragos1250&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" alt="Dragos profile views" />
 </p>
 
 ---
